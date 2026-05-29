@@ -1,13 +1,37 @@
 # markdown_20260529
 
+
+### 5. 목록
+** 순서 있는 리스트**  
+1. 아이템1
+2. 아이템2  
+   2.1 2의 하위 아이템  
+   2.2 2의 하위 아이템
+9. 아이템3
+9. 아이템4
+
+** 순서 없는 리스트 **
+- 아이템1
++ 아이템2
+  - 1의 하위 아이템
+
+
 ### 4. 코도블록
 **인라인**  
 ''
 
 
 **코드블록**  
-'''
+'''   
 
+
+public class Hello {
+
+	public static void main(String []args){
+		//console : "Hello, world!" 메시지 출력
+		System.out.println("Hello, world!");
+	}
+}
 
 
 
