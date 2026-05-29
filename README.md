@@ -3,7 +3,7 @@
 ### 6. 링크
 '[링크 텍스트](URL)형태로 작성 합니다.'
 
-[NAVER](URL)
+[NAVER CAFE] (https://cafe.naver.com/kndjang)
 
 
 
